@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1085965779273",
+    "project_id": "proyecto2024-20ae5",
+    "storage_bucket": "proyecto2024-20ae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085965779273:android:ffa3b1b072fb9011c85a98",
+        "android_client_info": {
+          "package_name": "com.example.firebases9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnJm5tn8J3LXz7Iia81aP-KjhDVyDHV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085965779273:android:20273e80591054e1c85a98",
+        "android_client_info": {
+          "package_name": "dem.rodcab.pc02moviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnJm5tn8J3LXz7Iia81aP-KjhDVyDHV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

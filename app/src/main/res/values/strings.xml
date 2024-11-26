@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PC02 Moviles</string>
+    <string name="valingresardni">Ingrese su DNI</string>
+    <string name="valingresarclave">Ingrese su clave</string>
+    <string name="valregistrardni">Ingrese su DNI</string>
+    <string name="valregistrarnombrecompleto">Ingrese su nombre completo</string>
+    <string name="valregistrarclave">Ingrese su clave</string>
+    <string name="valvalidarclave">Ingrese nuevamente su clave</string>
+</resources>
